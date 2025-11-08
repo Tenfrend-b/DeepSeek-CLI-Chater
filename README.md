@@ -1,7 +1,7 @@
 # DeepSeek-CLI-Chater
 A very simple bash script to chat with DeepSeek using DeepSeek API key Generating by DeepSeek.
 
-用法：ds &lt;option&gt;
+用法：bash ds.sh &lt;option&gt;
 
 支持的选项为S s R r，分别对应非流式对话 流式对话 对话模型 推理模型。
 
